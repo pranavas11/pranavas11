@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranav (@pranavas11)!
 - 👀 I’m interested in programming, reading books, watching TV/YouTube/movies, biking, playing soccer and chess, cooking, and many more!
-- 🌱 I’m currently learning MATLAB, AWS, and Data Analytics.
+- 🌱 I’m currently learning AWS and Data Analytics.
 - 📚 I'm passionate about Cybersecurity and Data Science.
 - 💞️ I’m looking to collaborate on any type of open-source or other projects!
 - 📫 How to reach me: Email me at ppranavas@gmail.com.
